@@ -1,6 +1,6 @@
 # OC-EFI-Zenbook-UX434-FAC
 This is the EFI folder I use. 
-With Intel GFX only. It's an early stage, possibly with bugs, but it works so far.
+For Intel GFX only. It's an early stage, possibly with bugs, but it works so far.
 
 With working FN key-lock.  
 Audio, brightness keys are working.   
@@ -11,7 +11,7 @@ F12 = Start Music Play/Pause.
 FN + A = Screenpad brightness.  
 FN + Space = Battery health charging 80%/100%.  
 
-I use Ventura DP3, Monterey should also work. For BigSur and you need the customized AirportItlwm.kext.  
+I use Ventura DP3, Monterey should also work. For BigSur you need the customized AirportItlwm.kext.  
 Please generate your own Serial, ROM, MLB UUID.  
 
 So far nearly everithing works!!??   
