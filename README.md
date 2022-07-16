@@ -11,5 +11,7 @@ F12 = Start Music Play/Pause.
 FN + A = Screenpad brightness.  
 FN + Space = Battery health charging 80%/100%.  
 
+Add your own Serial, ROM, MLB UUID.  
+
 So far nearly everithing works!!??   
 Will upload more updates when I have time.  
