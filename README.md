@@ -11,7 +11,8 @@ F12 = Start Music Play/Pause.
 FN + A = Screenpad brightness.  
 FN + Space = Battery health charging 80%/100%.  
 
-Add your own Serial, ROM, MLB UUID.  
+I use Ventura DP3, Monterey should also work. For BigSur and you need the customized AirportItlwm.kext.  
+Please generate your own Serial, ROM, MLB UUID.  
 
 So far nearly everithing works!!??   
 Will upload more updates when I have time.  
