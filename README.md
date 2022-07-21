@@ -12,7 +12,7 @@ FN + A = Screenpad brightness.
 FN + Space = Battery health charging 80% / 100%.  
 
 I use Ventura DP3, Monterey should also work. For BigSur you need the customized [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases/).   
-Please generate your own Serial, ROM, MLB UUID.  
+Please generate your own Serial, ROM, MLB, UUID.  
 
 So far nearly everything works!!??   
 Will upload more updates when I have time.  
