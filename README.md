@@ -15,6 +15,7 @@ I use Ventura, Monterey should also work. For BigSur you need the customized [Ai
 Please generate your own Serial, ROM, MLB, UUID.  
 
 So far nearly everything works!!??   
+Edit:
 The webcam does not work yet.
 
 Will upload more updates when I have time.  
