@@ -6,7 +6,6 @@ With working FN key-lock.
 Audio, brightness keys are working.   
 With F6 the Screenpad can be enabled and disabled.  
 F8  = Show Desktop.  
-F10 = Disable/enable brightness.  
 F12 = Start Music Play/Pause.  
 FN + A = Screenpad brightness.  
 FN + Space = Battery health charging 80% / 100%.  
